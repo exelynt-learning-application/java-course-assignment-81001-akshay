@@ -3,7 +3,7 @@ public class Main {
         if (args.length > 0) {
             System.out.println("Your name is: " + args[0]);
         } else {
-            System.out.println("Please provide a name.");
+            System.out.println("Please provide your name as a command-line argument.");
         }
     }
 }
